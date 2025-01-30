@@ -1,4 +1,6 @@
-🚀 LeetCode Top 50 SQL Solutions  
+Top-SQL-50-LEETCODE-Solutions
+
+## 🚀 LeetCode Top 50 SQL Solutions  
 
 ## Overview  
 Comprehensive collection of top SQL problems and solutions from LeetCode, designed to enhance database querying skills.  
