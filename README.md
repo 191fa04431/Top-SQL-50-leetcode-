@@ -1,5 +1,3 @@
-Top-SQL-50-LEETCODE-Solutions
-
 ## 🚀 LeetCode Top 50 SQL Solutions  
 
 ## Overview  
